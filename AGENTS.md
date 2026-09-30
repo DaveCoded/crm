@@ -25,3 +25,17 @@ release. Add a tool name to select part of the graph. For example, run
 - [ ] If setup, runtime, or package-manager behavior looks wrong, run `vp env doctor` and include its output when asking for help.
 
 <!--VITE PLUS END-->
+
+## Agent skills
+
+### Issue tracker
+
+Track specs, implementation tickets, and decision maps in the Personal CRM Linear project. See `docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+Use the Linear triage labels and category mapping in `docs/agents/triage-labels.md`.
+
+### Domain docs
+
+Use one root glossary and root ADR directory for this project. See `docs/agents/domain.md`.
